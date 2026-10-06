@@ -40,4 +40,22 @@ export const courses = [
         price : "800 000 so'm",
         image : ReactJs
     },
+            {
+        id : 5,
+        title : "React Js",
+        caption : "javaScript dasturlash tiliga asoslangan framework.",
+        level : "Intermediate",
+        lesson : 40,
+        price : "800 000 so'm",
+        image : ReactJs
+    },
+            {
+        id : 6,
+        title : "React Js",
+        caption : "javaScript dasturlash tiliga asoslangan framework.",
+        level : "Intermediate",
+        lesson : 40,
+        price : "800 000 so'm",
+        image : ReactJs
+    }
 ]
